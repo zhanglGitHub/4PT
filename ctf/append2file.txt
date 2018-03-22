@@ -1,0 +1,7 @@
+# space seperated
+awk '{print $0,"text here"}' input > output
+
+# no space seperator 
+awk '{print $0 "textHere"}' input > output
+
+# Dont Forget To remove The Spaces

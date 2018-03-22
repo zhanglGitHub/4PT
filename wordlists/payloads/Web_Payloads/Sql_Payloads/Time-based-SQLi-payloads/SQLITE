@@ -1,0 +1,4 @@
+(select like('abcdefg',upper(hex(randomblob(150000000))))) as test
+(select like('abcdefg',upper(hex(randomblob(150000000)))))
+9999'||(select like('abcdefg',upper(hex(randomblob(150000000)))))||'9999
+9999"||(select like('abcdefg',upper(hex(randomblob(150000000)))))||"9999

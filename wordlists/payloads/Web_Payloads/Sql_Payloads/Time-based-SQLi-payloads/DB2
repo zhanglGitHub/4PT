@@ -1,0 +1,4 @@
+(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) as test
+(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)
+9999'||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||'9999
+9999"||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||"9999

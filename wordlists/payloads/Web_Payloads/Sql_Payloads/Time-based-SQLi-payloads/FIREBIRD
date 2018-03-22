@@ -1,0 +1,4 @@
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3) as test
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)
+9999'||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||'9999
+9999"||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||"9999

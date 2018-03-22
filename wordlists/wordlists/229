@@ -1,0 +1,35 @@
+
+-----------------
+DIRB v2.21    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: 229
+START_TIME: Sun Oct 12 16:16:45 2014
+URL_BASE: http://192.168.17.229:80/
+WORDLIST_FILES: common.txt
+
+-----------------
+
+GENERATED WORDS: 1942
+
+---- Scanning URL: http://192.168.17.229:80/ ----
+==> DIRECTORY: http://192.168.17.229:80/Images/
+==> DIRECTORY: http://192.168.17.229:80/_vti_log/
++ http://192.168.17.229:80/aspnet_client (CODE:403|SIZE:218)
+==> DIRECTORY: http://192.168.17.229:80/images/
+
+---- Entering directory: http://192.168.17.229:80/Images/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: http://192.168.17.229:80/_vti_log/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: http://192.168.17.229:80/images/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+-----------------
+DOWNLOADED: 1942 - FOUND: 1

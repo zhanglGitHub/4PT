@@ -1,0 +1,2 @@
+for i in $(seq 1 254); do echo "144.188.128.$i" >> motorola-IPs.txt; done
+

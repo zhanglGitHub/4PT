@@ -1,0 +1,4 @@
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) as test
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+9999'||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||'9999
+9999"||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||"9999

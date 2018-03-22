@@ -1,0 +1,16 @@
+site.com/search?q=
+
+Host: site.com
+Connection: keep-alive
+Accept: text/html,application/xhtml_xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0
+Referer: site.com/form
+Accept-Encoding: gzip,deflate
+Accept-Lanuages: en-US,en;q=0.8
+Cookie: Cookie-Headers
+
+Content-Type: application/x-www-form-urlencoded
+
+
+Content
+search?q=text

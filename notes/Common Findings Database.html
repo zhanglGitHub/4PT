@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Common Findings Database</title>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="shortcut icon" href="https://cfdb.io/favicon.ico">
+	<link rel="stylesheet" href="Common%20Findings%20Database_files/bootstrap.css">
+	<link rel="stylesheet" href="Common%20Findings%20Database_files/solarized_light.css">
+	<link rel="stylesheet" href="Common%20Findings%20Database_files/raneto.css">
+
+	
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<body class="page-home">
+
+	<header class="header">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-6">
+
+					<a href="https://cfdb.io/" class="logo">Common Findings Database</a> - <a href="https://github.com/mubix/cfdb">https://github.com/mubix/cfdb</a>
+
+				</div>
+				<div class="col-sm-6">
+
+					<form class="search-form form-inline pull-right" role="form" action="/">
+						<div class="form-group">
+							<label class="sr-only" for="search">Search</label>
+							<input class="form-control" name="search" id="search" size="30" placeholder="Search" type="search">
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div class="container-fluid">
+		<div class="home-search jumbotron row">
+	<form class="search-form form-inline" role="form" action="/">
+		<div class="form-group">
+			<label class="sr-only" for="home-search">Search the knowledge base</label>
+			<input class="form-control input-lg" name="search" id="home-search" size="50" placeholder="Search the knowledge base" type="search">
+			<button type="submit" class="btn btn-primary btn-lg">Search</button>
+		</div>
+	</form>
+</div>
+<div class="home-categories row" style="position: relative; height: 706.2px;">
+			<div class="col col-sm-4" style="position: absolute; left: 0px; top: 0px;">
+				<div class="panel panel-default category-index">
+					<h2 class="panel-heading">Main Articles</h2>
+					<ul class="list-group pages">
+							<li class="list-group-item page"><a href="https://cfdb.io/CONTRIBUTING">How to Contribute</a></li>
+							<li class="list-group-item page"><a href="https://cfdb.io/LICENSE">Licence</a></li>
+							<li class="list-group-item page"><a href="https://cfdb.io/README">What is the CFDB?</a></li>
+							<li class="list-group-item page"><a href="https://cfdb.io/TEMPLATE">Template</a></li>
+					</ul>
+				</div>
+			</div>
+		<div class="col col-sm-4" style="position: absolute; left: 410px; top: 0px;">
+			<div class="panel panel-default category-assets">
+				<h2 class="panel-heading">Assets</h2>
+				<ul class="list-group pages">
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 820px; top: 0px;">
+			<div class="panel panel-default category-assets-web">
+				<h2 class="panel-heading">Web</h2>
+				<ul class="list-group pages">
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 410px; top: 58px;">
+			<div class="panel panel-default category-crypto">
+				<h2 class="panel-heading">Crypto</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Crypto/Block_Cipher_Uses_ECB_Mode">Block Cipher Uses ECB Mode</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Crypto/Password_Storage_Via_Fast_Hashing_Algorithm">Password Storage Uses Fast Hashing Algorithm</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 820px; top: 58px;">
+			<div class="panel panel-default category-printers">
+				<h2 class="panel-heading">Printers</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Printers/Default_Credential">Default Credential (Printers)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 820px; top: 156px;">
+			<div class="panel panel-default category-tomcat">
+				<h2 class="panel-heading">Tomcat</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Tomcat/Default%20Credential">Tomcat Manager - Default Login Credentials</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 410px; top: 197px;">
+			<div class="panel panel-default category-web">
+				<h2 class="panel-heading">Web</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Command_Injection">Command Injection</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Default_Credential">Default/Guessable Login Credentials</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Directory_Traversal">Directory Traversal / File Include</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Insecure_Direct_Object_Reference">Insecure Direct Object Reference</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Redirection_Based_Privilege_Escalation">Redirection Based Privilege Escalation</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/SQL_Injection">SQL Injection</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/Server-Side%20Request%20Forgery">Server-Side Request Forgery (SSRF)</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/WeakSSL">Weak SSL Configurations</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/XSS_Reflective">XSS - Reflective</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/XSS_Stored">XSS - Stored</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Web/XSTE">Cross Site Trust Exploitation</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 0px; top: 221px;">
+			<div class="panel panel-default category-web-imgs">
+				<h2 class="panel-heading">Imgs</h2>
+				<ul class="list-group pages">
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 820px; top: 255px;">
+			<div class="panel panel-default category-windows">
+				<h2 class="panel-heading">Windows</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/Old_KRBTGT_Password">Old KRBTGT Password</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/Powershell">PowerShell</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/Shared_Admin">Shared Local Windows Admin Password</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/WDigest">WDigest Enabled</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/WPAD">WPAD Enabled</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Windows/Weak_SPN_Password">Weak SPN Password</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col col-sm-4" style="position: absolute; left: 0px; top: 279px;">
+			<div class="panel panel-default category-wireless">
+				<h2 class="panel-heading">Wireless</h2>
+				<ul class="list-group pages">
+						<li class="list-group-item page"><a href="https://cfdb.io/Wireless/EAP-TLS">WPA EAP-TLS Mode Certificate Only</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Wireless/WEP">WEP Encryption Used</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Wireless/WPA-PSK">WPA Pre-Shared Key</a></li>
+						<li class="list-group-item page"><a href="https://cfdb.io/Wireless/WPS">Wifi Protected Setup (WPS)</a></li>
+				</ul>
+			</div>
+		</div>
+</div>
+
+	</div>
+
+	<footer class="footer">
+		<div class="container-fluid">
+
+			<p class="copyright pull-right">Copyright © 2017 - <a href="http://raneto.com/">Powered by Raneto</a></p>
+
+		</div>
+	</footer>
+
+	<script src="Common%20Findings%20Database_files/jquery_002.js"></script>
+	<script src="Common%20Findings%20Database_files/bootstrap.js"></script>
+	<script src="Common%20Findings%20Database_files/highlight.js"></script>
+	<script src="Common%20Findings%20Database_files/jquery.js"></script>
+	<script src="Common%20Findings%20Database_files/masonry.js"></script>
+	<script src="Common%20Findings%20Database_files/raneto.js"></script>
+
+
+
+</body></html>

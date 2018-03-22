@@ -1,0 +1,14 @@
+|
+||
+|||
+&
+&&
+'; cmd ;'
+;' command ';
+$(echo 'aaa');
+$(exec command); 
+`; cmd ;`
+;` cmd ;`
+´; cmd ´;
+;´ cmd ;´
+

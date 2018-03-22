@@ -1,0 +1,23 @@
+Open Source Intelligence (OSINT)
+robtext.com
+netcraft
+whois
+passive-recon
+mxtoolbox.com
+metagoofil (data harvest)
+Foca (data harverst)
+gitem (info Harvest)
+gxfr (network topology enumeration)
+fierce.py
+web-service-finder
+recon-ng 
+
+
+Signal Intelligent (SIGINT)
+
+http://openbts.org/
+https://www.ettus.com/
+http://opensecuritytraining.info/IntroCellSec.html
+karsten nohl gsm
+
+Human Intelligent (HUMINT)

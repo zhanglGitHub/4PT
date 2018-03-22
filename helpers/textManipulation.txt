@@ -1,0 +1,1 @@
+grep "href=" index.html |cut -d"/" -f3 |grep joyetech.com |sort -u 

